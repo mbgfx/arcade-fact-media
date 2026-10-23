@@ -1,0 +1,16 @@
+Space Invaders' difficulty curve was a happy accident. 🕹️
+
+The aliens speed up as you shoot them because the hardware could draw fewer aliens faster. Designer Tomohiro Nishikado noticed and decided to keep it as a gameplay mechanic.
+
+🔎 Bonus: The background beat speeds up with the invaders too. Critics have compared it to a racing heartbeat.
+
+💬 Name another 'bug' that made a game better.
+📩 Send this to a friend who remembers Space Invaders.
+
+🎮 Follow @gamershaven.app for a retro gaming fact every morning.
+
+Gamers Haven #003 · Space Invaders (1978)
+Source: en.wikipedia.org/wiki/Space_Invaders
+📷 Photo: Tomomarusan, CC BY 2.5 (cropped), via Wikimedia Commons
+
+#spaceinvaders #taito #retrogaming #gamingfacts #videogamehistory
