@@ -1,0 +1,16 @@
+Pac-Man has a final level you can't finish. 🕹️
+
+Level 256 is a 'kill screen'. An integer overflow makes the level load improperly, scrambling the maze with garbled graphics so it can't be cleared.
+
+🔎 Bonus: The highest possible score, reached by playing every level perfectly, is 3,333,360 points.
+
+💬 What's the highest level you ever reached in Pac-Man?
+📩 Send this to a friend who remembers Pac-Man.
+
+🎮 Follow @gamershaven.app for a retro gaming fact every morning.
+
+Gamers Haven #013 · Pac-Man (1980)
+Source: en.wikipedia.org/wiki/Pac-Man
+📷 Photo: Bex Walton, CC BY 2.0 (cropped), via Wikimedia Commons
+
+#pacman #killscreen #retrogaming #gamingfacts #videogamehistory
