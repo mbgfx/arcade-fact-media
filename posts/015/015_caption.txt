@@ -1,0 +1,16 @@
+The NES Zapper didn't shoot anything. The TV did the work. 🕹️
+
+When you pulled the trigger, the screen went black for one frame, then drew the targets in white. The Zapper's light sensor checked whether it was pointing at the white. That's why it won't work on modern flat-screen TVs.
+
+🔎 Bonus: The trick depended on old CRT televisions. Flat screens add display lag, so the timing breaks.
+
+💬 Did you ever press the Zapper right up against the screen?
+📩 Send this to a friend who remembers NES Zapper.
+
+🎮 Follow @gamershaven.app for a retro gaming fact every morning.
+
+Gamers Haven #015 · NES Zapper (1985)
+Source: en.wikipedia.org/wiki/NES_Zapper
+📷 Photo: Evan-Amos, Public domain, via Wikimedia Commons
+
+#duckhunt #nes #retrogaming #gamingfacts #videogamehistory
